@@ -1,0 +1,22 @@
+TOKEN="MTY2NjcxMDQ0NDkxMzQ1OTIw.YHMG1Q.tQj77Nc_ZE3cCctucnWkQTebvpA"
+PREFIX=!
+EDIT=OFF
+DELETED-MESSAGE-LOGGER=ON
+EDITED-MESSAGE-LOGGER=ON
+NITRO-SNIPE=ON
+PRIVNOTE-SNIPE=ON
+GIVEAWAY-SNIPE=ON
+PASTEBIN-SNIPE=ON
+DELETE-AFTER=OFF
+DELETE-AFTER-TIME=20
+CYCLEDELAY=15
+STATUSCYCLE=Scalic Selfbot On Top,https://github.com/scalic,Add more items with a comma
+STREAMURL=https://www.twitch.tv/discordtos
+NICKNAMECYCLEDELAY=3
+NICKNAMECYCLE=!,z,scalic,on,top,Add more items with a comma
+TALKCUTE=OFF
+AFK=ON
+AFKMSG=I am doing class right now , please leave a message I will get back to you at 2:55 or 3:30 EST! (By the way Love Hurts automated message) Mousey OUT!
+
+Sincerely, Mousey.
+NOTIFICATIONS-ON-PING=ON
